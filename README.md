@@ -4,7 +4,7 @@
 * The Purpose of the project was to test **DOM Manipulations**.
 * Tech Stacks: HTML, CSS, JavaScript
 
-Live Preview: 
+Live Preview: https://sachin9998.github.io/RandomDiceGenerator/
 
 Screenshots:
 
